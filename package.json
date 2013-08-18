@@ -9,12 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/jaen/karma-livescript-preprocessor.git"
-  },
-  "keywords": [
-    "karma-plugin",
-    "karma-preprocessor",
-    "LiveScript"
-  ],
+  }
   "author": "jaen",
   "dependencies": {
     "LiveScript": ">= 1.1.0"
