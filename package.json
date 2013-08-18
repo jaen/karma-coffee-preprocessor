@@ -13,7 +13,7 @@
   "keywords": [
     "karma-plugin",
     "karma-preprocessor",
-    "LiveScript",
+    "LiveScript"
   ],
   "author": "jaen",
   "dependencies": {
