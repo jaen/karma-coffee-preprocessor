@@ -1,24 +1,23 @@
 {
-  "name": "karma-coffee-preprocessor",
+  "name": "karma-livescript-preprocessor",
   "version": "0.1.0",
-  "description": "A Karma plugin. Compile coffee script on the fly.",
+  "description": "A Karma plugin. Compile livescript on the fly.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/karma-runner/karma-coffee-preprocessor.git"
+    "url": "git://github.com/jaen/karma-livescript-preprocessor.git"
   },
   "keywords": [
     "karma-plugin",
     "karma-preprocessor",
-    "coffee-script",
-    "coffee"
+    "LiveScript",
   ],
-  "author": "Vojta Jina <vojta.jina@gmail.com>",
+  "author": "jaen",
   "dependencies": {
-    "coffee-script": "1.6.3"
+    "LiveScript": ">= 1.1.0"
   },
   "peerDependencies": {
     "karma": ">=0.9"
@@ -30,9 +29,5 @@
     "grunt-bump": "~0.0.7",
     "grunt-auto-release": "~0.0.2"
   },
-  "contributors": [
-    "Friedel Ziegelmayer <friedel.ziegelmayer@gmail.com>",
-    "Niall Smart <niall@pobox.com>",
-    "Zachary Wright Heller <zheller@gmail.com>"
-  ]
+  "contributors": []
 }
